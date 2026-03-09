@@ -80,7 +80,7 @@ Currently, I’m developing projects involving **REST APIs**, **MVC architecture
 
 ## 🚀 Philosophy
 
-> _"Walk a single path, becoming neither cocky with victory nor broken with defeat, without forgetting caution when all is quiet or becoming frightened when danger threatens."  
+> "Walk a single path, becoming neither cocky with victory nor broken with defeat, without forgetting caution when all is quiet or becoming frightened when danger threatens."  
 > 
 >Jigoro Kano
 
