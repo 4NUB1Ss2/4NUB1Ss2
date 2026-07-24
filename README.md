@@ -71,11 +71,11 @@ Currently, I’m developing projects involving **REST APIs**, **MVC architecture
 
 ## 📊 GitHub Stats
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=4NUB1Ss2&custom_title=Github%20General%20Stats&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=4NUB1Ss2&custom_title=Github%20General%20Stats&show_icons=true&include_all_commits=true&theme=dracula)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=4NUB1Ss2&custom_title=Github%20General%20Stats&show_icons=true&include_all_commits=true&hide=stars,issues&theme=dracula)](https://github-stats-extended.vercel.app/api?username=4NUB1Ss2&custom_title=Github%20General%20Stats&show_icons=true&include_all_commits=true&hide=stars,issues&theme=dracula)
 
-  ![Readme Card](https://github-readme-stats-blond-psi-42.vercel.app/api/pin?username=4NUB1Ss2&repo=etecGamesRemake-backend&theme=dracula&show_owner=true)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=4NUB1Ss2&repo=4NUB1Ss2/EtecGamesRemake-backend&show_owner=true&theme=dracula)](https://github.com/4NUB1Ss2/EtecGamesRemake-backend)
 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=4NUB1Ss2&layout=donut&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=4NUB1Ss2&layout=donut&langs_count=4&theme=dracula)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=4NUB1Ss2&layout=donut&langs_count=4&hide=SCSS,blade,javascript&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=4NUB1Ss2&layout=donut&langs_count=4&theme=dracula)
 
 
 
@@ -85,7 +85,7 @@ Currently, I’m developing projects involving **REST APIs**, **MVC architecture
 
 > "Walk a single path, becoming neither cocky with victory nor broken with defeat, without forgetting caution when all is quiet or becoming frightened when danger threatens."  
 > 
-> -Jigoro Kano
+> — *Jigoro Kano*
 
 ---
 
