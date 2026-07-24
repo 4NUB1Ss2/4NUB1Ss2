@@ -71,11 +71,11 @@ Currently, I’m developing projects involving **REST APIs**, **MVC architecture
 
 ## 📊 GitHub Stats
 
-  ![Anurag's GitHub stats](https://github-readme-stats-blond-psi-42.vercel.app/api?username=4NUB1Ss2&count_private=true&show_icons=true&theme=dracula&hide=issues)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=4NUB1Ss2&custom_title=Github%20General%20Stats&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=4NUB1Ss2&custom_title=Github%20General%20Stats&show_icons=true&include_all_commits=true&theme=dracula)
 
   ![Readme Card](https://github-readme-stats-blond-psi-42.vercel.app/api/pin?username=4NUB1Ss2&repo=etecGamesRemake-backend&theme=dracula&show_owner=true)
 
-  ![Top Langs](https://github-readme-stats-blond-psi-42.vercel.app/api/top-langs?username=4NUB1Ss2&hide=JavaScript,SCSS&theme=dracula)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=4NUB1Ss2&layout=donut&langs_count=4&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=4NUB1Ss2&layout=donut&langs_count=4&theme=dracula)
 
 
 
